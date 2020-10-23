@@ -1,3 +1,5 @@
+THIS IS NOW DEPRECATED AND NO LONGER MAINTAINED, PLEASE REFER TO THE MAIN BRANCH FOR AN UPDATED VERSION
+
 This is a dark mode version of the TIdal Media Downloader tool by @yaronzz with a brand new dark theme and various style, coherency and usability fixes.
 
 Libraries and reference
