@@ -2,7 +2,7 @@ THIS IS NOW DEPRECATED AND NO LONGER MAINTAINED, PLEASE REFER TO THE MAIN BRANCH
 
 This is a dark mode version of the Tidal Media Downloader tool by @yaronzz with a brand new dark theme and various style, coherency and usability fixes.
 
-https://raw.githubusercontent.com/louckazdenekjr/Tidal-GUI-Dark/master/screenshot.png
+![https://raw.githubusercontent.com/louckazdenekjr/Tidal-GUI-Dark/master/screenshot.png]
 
 Libraries and reference
 
