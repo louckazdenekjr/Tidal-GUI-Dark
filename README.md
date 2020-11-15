@@ -1,4 +1,5 @@
-THIS IS NOW DEPRECATED AND NO LONGER MAINTAINED DUE TO REDUNDANCY, PLEASE REFER TO THE MAIN BRANCH FOR AN UPDATED VERSION
+DEPRECATION WARNING:
+This is not deprecated and no longer maintained due to redundancy, please refer to the main branch for an updated version.
 
 This is a dark mode version of the Tidal Media Downloader tool by @yaronzz with a brand new dark theme and various style, coherency and usability fixes.
 
